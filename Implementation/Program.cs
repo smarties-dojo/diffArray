@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Implementation
 {
@@ -10,12 +11,15 @@ namespace Implementation
             Console.WriteLine("Hello World!");
         }
 
-        public static Array diffArray(Array a1, Array a2)
+        public static Object[] diffArray(Object[] a1, Object[] a2)
         {
-            var r1 = GetExclusivElementsOfFirstArray(a1, a2);
-            var r2 = GetExclusivElementsOfFirstArray(a2, a1);
+            return a1.Except(a2).Union(a2.Except(a1)).ToArray();  
+            
+            
+            // var r1 = GetExclusivElementsOfFirstArray(a1, a2);
+            // var r2 = GetExclusivElementsOfFirstArray(a2, a1);
 
-            return concat(r1, r2);
+            // return concat(r1, r2);
         }
 
         public static Array GetExclusivElementsOfFirstArray(Array a1, Array a2)

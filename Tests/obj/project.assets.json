@@ -5752,11 +5752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_work\\kata\\kata_x\\Tests\\tests.csproj",
+      "projectUniqueName": "C:\\_work\\kata\\kata_x\\tests\\tests.csproj",
       "projectName": "tests",
-      "projectPath": "C:\\_work\\kata\\kata_x\\Tests\\tests.csproj",
+      "projectPath": "C:\\_work\\kata\\kata_x\\tests\\tests.csproj",
       "packagesPath": "C:\\Users\\knaebelro\\.nuget\\packages\\",
-      "outputPath": "C:\\_work\\kata\\kata_x\\Tests\\obj\\",
+      "outputPath": "C:\\_work\\kata\\kata_x\\tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

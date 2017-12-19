@@ -1,0 +1,15 @@
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\tests.deps.json
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.json
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\tests.dll
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\tests.pdb
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\Implementation.dll
+C:\_work\kata\kata_x\Tests\bin\Debug\netcoreapp2.0\Implementation.pdb
+C:\_work\kata\kata_x\Tests\obj\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache
+C:\_work\kata\kata_x\Tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+C:\_work\kata\kata_x\Tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+C:\_work\kata\kata_x\Tests\obj\Debug\netcoreapp2.0\tests.dll
+C:\_work\kata\kata_x\Tests\obj\Debug\netcoreapp2.0\tests.pdb

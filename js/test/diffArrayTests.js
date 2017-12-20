@@ -1,5 +1,5 @@
-suite('diffArray', () => {
+suite('diffArrayTest', () => {
     test('should return array', () => {
-    
+        
     });    
 });

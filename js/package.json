@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smarties-dojo/diffArray/issues"
   },
-  "homepage": "https://github.com/smarties-dojo/diffArray#readme"
+  "homepage": "https://github.com/smarties-dojo/diffArray#readme",
+  "devDependencies": {
+    "node-assertthat": "^0.2.3"
+  }
 }

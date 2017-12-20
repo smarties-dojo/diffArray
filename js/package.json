@@ -1,0 +1,19 @@
+{
+  "name": "diff-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diffArray.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarties-dojo/diffArray.git"
+  },
+  "author": "roykn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smarties-dojo/diffArray/issues"
+  },
+  "homepage": "https://github.com/smarties-dojo/diffArray#readme"
+}

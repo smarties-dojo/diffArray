@@ -4,12 +4,8 @@
 Install packages
 ```
 npm install -g mocha
-npm install assertthat --save-dev --save-exact
 ```
-Provide mocha configuration in mocha.opts
+Change to folder /js and run mocha
 ```
---recursive
---ui tdd
---reporter spec
---bail
+mocha --ui tdd
 ```

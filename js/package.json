@@ -2,7 +2,7 @@
   "name": "diff-array",
   "version": "1.0.0",
   "description": "",
-  "main": "diffArray.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -16,7 +16,6 @@
     "url": "https://github.com/smarties-dojo/diffArray/issues"
   },
   "homepage": "https://github.com/smarties-dojo/diffArray#readme",
-  "devDependencies": {
-    "node-assertthat": "^0.2.3"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }

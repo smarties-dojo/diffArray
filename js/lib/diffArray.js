@@ -1,9 +1,9 @@
 'use strict';
 
-var differ = {};
+const differ = {};
 
 differ.GetExclusiveElementsOfFirstArray = (a1, a2) => {
     return [];
 };
 
-module.export = differ;
+module.exports = differ;
